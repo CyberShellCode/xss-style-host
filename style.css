@@ -1,8 +1,4 @@
-@font-face {
-  font-family: x;
-  src: url("https://cvs7lcf42698an56i760dhumc8riiz74x.oast.live/fontleak");
+* {
+  background: url("https://cvs7lcf42698an56i760dhumc8riiz74x.oast.live/xss");
 }
 
-body {
-  font-family: x;
-}
